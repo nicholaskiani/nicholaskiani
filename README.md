@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nicholaskiani
 - 👀 I’m interested in Computer Science and Physics.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me - nicholaskiani@sbcglobal.net
+- 🌱 I’m currently learning OCaml, C++, and about computer graphics.
+- 📫 How to reach me - nicholaskiani23@gmail.com
